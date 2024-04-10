@@ -9,7 +9,7 @@ import About from './components/About'
 import Service from './components/Service'
 import Contact from './components/Contact'
 
-function App() {
+function App() {  
   return (
     <div>
      <BrowserRouter>
